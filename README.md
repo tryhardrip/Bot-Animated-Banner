@@ -4,3 +4,4 @@
 <h2>Please enter this server</h2>
 Thankful! ✨
 https://discord.gg/forex-bot
+and Open This File !!!! run.bat
